@@ -1,2 +1,2 @@
-# pr0-ascii-art
-Pr0gramm ascii art 
+# pr0-ASCII-ART
+Pr0gramm ASCII art
